@@ -1,0 +1,4 @@
+There are more than one source files provided, the main one is p3_gzaharie_203.c . 
+There is Makefile provided for compiling correctly the program. 
+There is also an example run in a typescript file. 
+The program have many function for order management and it could be run in real time using the keyboard or with file redirection. 
